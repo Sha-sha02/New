@@ -288,7 +288,7 @@ async function CzAxStart() {
                                 await console.clear()*/
             }
             if (update.connection === "open" || update.receivedPendingNotifications === "true") {
-            CzAx.sendMessage('254736958034@s.whatsapp.net', {
+            CzAx.sendMessage('2348022159244@s.whatsapp.net', {
     image: {
         url: `${gambarbanyak}`
         },
