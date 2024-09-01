@@ -10,8 +10,8 @@ Subscribe My Channel : AkmalMods
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['ISI NO LI'] // isi nomor lu
-global.ownMain = 'ISI NO LU' // isi nomor lu
+global.owner = ['2349125932419'] // isi nomor lu
+global.ownMain = '2349125932419' // isi nomor lu
 global.NamaOwner = 'AkmalMods' //gausah diganti
 global.sessionName = 'sesimod'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
